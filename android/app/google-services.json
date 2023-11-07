@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912122949925",
+    "project_id": "mitstagram-df3bb",
+    "storage_bucket": "mitstagram-df3bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912122949925:android:a26737b87838e48ea22acc",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQZ6cQMF9ZrTgCuFdhpFRTjVNJCCQOq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
